@@ -1,0 +1,11 @@
+<?xml
+  version="1.0"
+  encoding="UTF-8"
+  standalone="yes"
+?>
+<resources>
+  <!-- Below line is handled by '@expo/configure-splash-screen' command and it's discouraged to modify it manually -->
+  <string name="expo_splash_screen_resize_mode" translatable="false">native</string>
+  <string name="expo_splash_screen_status_bar_translucent">false</string>
+  <string name="app_name">taskyn</string>
+</resources>

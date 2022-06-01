@@ -1,0 +1,1 @@
+export { toJalaaliDate } from "./toJalaaliDate";

@@ -1,0 +1,1 @@
+export { parseCustomer } from "./parseCustomer"

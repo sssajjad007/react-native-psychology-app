@@ -1,0 +1,18 @@
+{
+  "name": "taskyn",
+  "displayName": "taskyn",
+  "expo": {
+    "name": "taskyn",
+    "slug": "taskyn",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.abasoft.taskyn"
+    },
+    "ios": {
+      "bundleIdentifier": "com.abasoft.taskyn"
+    }
+  }
+}
