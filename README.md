@@ -84,5 +84,10 @@ git checkout -b rename
 npx react-native-rename <new_name> -b <bundle_identifier>
 ```
 
+## 🔔 Updates
+
+To use my application, I will add mock data, update packages, add beautiful animation soon. :v:
+
+
 
 
