@@ -88,6 +88,7 @@ npx react-native-rename <new_name> -b <bundle_identifier>
 
 To use my application, I will add mock data, update packages, add beautiful animation soon. :v:
 
+## :camera: ScreenShot
 
-
+<img src="https://user-images.githubusercontent.com/37308584/198869011-dc80604a-d151-457e-9d9e-1e363bda7d88.jpg" width="240"><img src="https://user-images.githubusercontent.com/37308584/198869043-272891f4-9e0a-4dd5-b800-8ee3269433b3.jpg" width="240"><img src="https://user-images.githubusercontent.com/37308584/198869070-2bf811fd-9afa-43ce-a9ce-9afff5185973.jpg" width="240">
 
