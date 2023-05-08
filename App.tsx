@@ -89,7 +89,7 @@ function AppComponent() {
     <BottomSheetModalProvider>
       <GestureHandlerRootView style={{ flex: 1 }}>
         <NavigationContainer onReady={onLayoutRootView}>
-          {isSignedIn ? <TabNav /> : <AuthNav />}
+          {!isSignedIn ? <TabNav /> : <AuthNav />}
         </NavigationContainer>
       </GestureHandlerRootView>
     </BottomSheetModalProvider>

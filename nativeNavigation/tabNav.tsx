@@ -11,7 +11,7 @@ import { TaskynIcon, THEME } from "../app/library";
 const Tab = createBottomTabNavigator();
 
 function TabNavigation() {
-  const isProvider = getRole() === "provider";
+  const isProvider = true;
   return (
     <Tab.Navigator
       initialRouteName={"dashboardTab"}
